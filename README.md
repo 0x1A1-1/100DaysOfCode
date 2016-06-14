@@ -12,7 +12,31 @@ I will push code to GitHub every day so that anyone can see my progress.
 The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. 
 
 Week 1
-- [ ] Day 1
+- [ ] Day 1 
+- [ ] Day 2
+- [ ] Day 3
+- [ ] Day 4
+- [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
+Week 2
+- [ ] Day 1 
+- [ ] Day 2
+- [ ] Day 3
+- [ ] Day 4
+- [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
+Week 3
+- [ ] Day 1 
+- [ ] Day 2
+- [ ] Day 3
+- [ ] Day 4
+- [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
+Week 4
+- [ ] Day 1 
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
