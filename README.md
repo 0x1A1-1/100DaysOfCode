@@ -16,7 +16,7 @@ The time spent doing tutorials, online courses and other similar resources will 
  [x] [Day 1](https://github.com/Cigarent/webStuff/blob/master/javascript/javascripting.js) |  [x] Day 1 |  [ ] Day 1 |  [ ] Day 1 |  [] Day 1 |  [ ] Day 1 |  [ ] Day 1 |  [ ] Day 1 |  [ ] Day 1 | 
  [x] [Day 2](https://github.com/Cigarent/webStuff/blob/master/javascript/learnyounode/program.js)|  [x] Day 2 |  [ ] Day 2 |  [] Day 2 |  [ ] Day 2 |  [ ] Day 2 |  [ ] Day 2 |  [ ] Day 2 |  [ ] Day 2 |
  [x] [Day 3](https://github.com/Cigarent/webStuff/blob/master/javascript/learnyounode/program.js)|  [x] Day 3 |  [ ] Day 3 |  [ ] Day 3 |  [ ] Day 3 |  [ ] Day 3 |  [ ] Day 3 |  [ ] Day 3 |  [ ] Day 3 |
- [x] Day 4 |  [ ] Day 4 |  [ ] Day 4 |  [ ] Day 4 |  [ ] Day 4 |  [ ] Day 4 |  [ ] Day 4 |  [ ] Day 4 |  [ ] Day 4 |
+ [x] Day 4 |  [x] Day 4 |  [ ] Day 4 |  [ ] Day 4 |  [ ] Day 4 |  [ ] Day 4 |  [ ] Day 4 |  [ ] Day 4 |  [ ] Day 4 |
  [x] [Day 5](https://github.com/Cigarent/webStuff/blob/master/javascript/learnyounode/program.js) |  [ ] Day 5 |  [ ] Day 5 |  [ ] Day 5 |  [ ] Day 5 |  [ ] Day 5 |  [ ] Day 5 |  [ ] Day 5 |  [ ] Day 5 |
  [x] [Day 6](https://github.com/Cigarent/webStuff/blob/master/javascript/learnyounode/program.js) |  [ ] Day 6 |  [ ] Day 6 |  [ ] Day 6 |  [ ] Day 6 |  [ ] Day 6 |  [ ] Day 6 |  [ ] Day 6 |  [ ] Day 6 |
  [x] Day 7 |  [ ] Day 7 |  [ ] Day 7 |  [ ] Day 7 |  [ ] Day 7 |  [ ] Day 7 |  [ ] Day 7 |  [ ] Day 7 |  [ ] Day 7 |
